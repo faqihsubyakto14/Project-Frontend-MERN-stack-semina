@@ -1,0 +1,5 @@
+- useEffecth (Method atau hook yang di render ketika web nya di panggil dan di jalankan).
+- useEffecth with dependencies (sama dengan useefect tapi dirender ulang ketika ada peruabahan data yagn di useEffec kan).
+
+konsepnya sama seperti component did mount dan komponenet didUpdate
+

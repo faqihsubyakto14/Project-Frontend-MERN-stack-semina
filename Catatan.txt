@@ -1,0 +1,6 @@
+- install gunakan npx cra(create react app)
+- npx create-react-app "nama-folder" 
+- concept dari reactnya berbasis component
+- menggunakan functional component
+- selain itu pelajari juga dasar-dasar react pernah di posting di group bootcamp
+- semua function di masukan ke utils
